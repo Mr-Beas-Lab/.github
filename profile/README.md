@@ -28,7 +28,7 @@ We operate within a **DeFi ecosystem**, driven by our native token **$MRB**, ens
 
 1. **Join the Mr. Beas Mini App**: [Telegram Mini-App](https://t.me/mrbeasapp_bot) 
 2. **Join the Mr. Beas Community**: [Telegram Group](https://t.me/MrBeas_Group)  
-3. **Buy the $MRB Uility Token**: [Buy on blum.io]([https://blum.io](https://t.me/blum/app?startapp=memepadjetton_MRB_3UKTM-ref_jM0CnzEvER) | [ston.fi](https://ston.fi)
+3. **Buy the $MRB Uility Token**: [Buy on blum.io](https://t.me/blum/app?startapp=memepadjetton_MRB_3UKTM-ref_jM0CnzEvER) | [ston.fi](https://ston.fi)
 
 ## 🤝 Connect with Us
 
