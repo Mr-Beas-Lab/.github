@@ -1,6 +1,6 @@
 # Arraez Group
 
-**Transforming Trading with AI and Elite Strategies**
+**Mr. Beas is an innovative Telegram super-app designed to transform finances and investing. DeFi, DAO, Trading, AI Analizer, Financial Services and more.**
 
 Welcome to the official GitHub of **Arraez Group**, a global community of elite traders leveraging cutting-edge AI technology and decentralized finance (**DeFi**) solutions. We are dedicated to empowering traders with innovative tools, transparent strategies, and a collaborative ecosystem.
 
